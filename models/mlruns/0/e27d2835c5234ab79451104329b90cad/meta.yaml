@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tshaymardanov/PycharmProjects/cookiecutters-data-science-test-project/models/mlruns/0/e27d2835c5234ab79451104329b90cad/artifacts
+end_time: 1657057315768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e27d2835c5234ab79451104329b90cad
+run_uuid: e27d2835c5234ab79451104329b90cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657057314118
+status: 3
+tags: []
+user_id: tshaymardanov
